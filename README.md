@@ -1,10 +1,10 @@
-# ModeSens Clone
+# boAt Website Clone
 <p>	we worked on boAt website, Which is India’s fastest audio & wearable brand. The most incredible range of wireless earphones, headphones, smart watches, earbuds and home audio . boAt is a ‘made for India’ lifestyle brand started in 2016 that deals in hi-quality aesthetically designed consumer electronics. </p>
 
 ## About this project.
 This project is built by us (6 team members) during construct week of unit 2 at Masai School.
 
-Netlify link:- https://modesensteamclone.netlify.app 
+Netlify link:- https://beamish-dodol-ccc381.netlify.app
 
 ## Team Members.
 1.	Ms. Lalita kumari.
